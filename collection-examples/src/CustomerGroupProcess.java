@@ -1,4 +1,4 @@
-package com.sample.models;
+import com.sample.models.Customer;
 
 import java.util.ArrayList;
 import java.util.HashSet;
